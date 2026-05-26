@@ -1,4 +1,4 @@
-# Plane Takeoff Animation ✈️
+# Plane Takeoff Animation 
 
 Simple airplane takeoff animation using OpenGL and Python.
 
